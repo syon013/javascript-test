@@ -142,3 +142,8 @@ body{
     background-color: #9859b7;
     padding: 10px 8px 11px;
 }
+
+
+#chat-log {
+    cursor: default;
+}
